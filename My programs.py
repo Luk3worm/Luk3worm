@@ -12,7 +12,7 @@ y=int(input('Enter any year : '))
 m=int(input('Enter any month : '))
 print(calendar.month(y,m))
 '''
-'''
+
 #PROBABLY MY FIRST APP
 def add(x, y):
     return x + y
@@ -40,7 +40,7 @@ elif choice == '4':
     print(num1,"/",num2,"=", divide(num1,num2))
 else:
     print("Invalid input")
-'''
+
 '''
 fileout=open("Student1.txt", "w")
 for i in range(2):
